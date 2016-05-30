@@ -1,2 +1,0 @@
-# maighoneim
-Microservices config file
